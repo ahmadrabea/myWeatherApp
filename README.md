@@ -18,3 +18,4 @@ last one for getting the country flag (it depends on the fetched coordinates).
 <img align="center" alt="3" width="600px" src="https://raw.githubusercontent.com/ahmadrabea/myWeatherApp/main/3.png" />
 
 
+# Temperature is not accurate , because it's free API :unamused:
