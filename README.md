@@ -1,2 +1,4 @@
 # myWeatherApp
-Simple Weather app using Reactjs , 3 APIs used in this project
+Technologis used : Reactjs , Axios for fetching data from the APIs
+
+
