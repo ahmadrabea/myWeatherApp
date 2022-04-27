@@ -1,4 +1,4 @@
-/*
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -152,10 +152,10 @@ input:focus {
   display: inline-block;
   margin-left: 10px;
 }
-*/
+
 
 /* Loading Icon  */
-/*
+
 .loading {
   position: absolute;
   top: 50%;
@@ -246,4 +246,4 @@ input:focus {
     transform: rotate(360deg);
   }
 }
-*/
+
